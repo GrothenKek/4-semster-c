@@ -1,0 +1,7 @@
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\groth\source\repos\4-semster-c\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -4,13 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
-{
+namespace ConsoleApp1{
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            string songLyrics = "You say goodbye, and I say hello";
+            Console.WriteLine(songLyrics.Contains("goodbye"));
+            Console.WriteLine(songLyrics.Contains("greetings"));
+
+            Console.WriteLine(songLyrics.EndsWith("hello"));
+            Console.WriteLine(songLyrics.EndsWith("goodbye"));
             Console.ReadKey();
         }
     }

@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel HorizontalAlignment="Left" Height="419" LastChildFill="False" VerticalAlignment="Top" Width="792"/>
+        <DockPanel>
+            <Button x:Name="Button_left" DockPanel.Dock="Left" Click="Button_left_Click">Left</Button>
+            <Button x:Name="button_top" DockPanel.Dock="Top" Click="button_top_Click">Top</Button>
+            <Button x:Name="button_right" DockPanel.Dock="Right" Click="Button_right_Click">Right</Button>
+            <Button x:Name="Button_bottom" DockPanel.Dock="Bottom" Click="Button_bottom_Click">Bottom</Button>
+            <TextBox x:Name="Text_box"></TextBox>
+
+
+
+
+        </DockPanel>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="-140,315,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+
+
+
+    </Grid>
+</Window>

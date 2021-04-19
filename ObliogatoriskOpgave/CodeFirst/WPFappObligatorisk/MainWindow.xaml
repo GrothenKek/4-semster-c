@@ -1,0 +1,51 @@
+﻿<Window x:Class="WPFappObligatorisk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFappObligatorisk"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel HorizontalAlignment="Left" Height="419" LastChildFill="False" VerticalAlignment="Top" Width="782" Margin="10,10,0,-10">
+            <ListView x:Name="ReservationView" Height="342" Margin="0,67,0,0" VerticalAlignment="Top" Width="395" SelectionMode="Single" SelectionChanged="RentalPicked">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Grid Height="330" Margin="0,67,0,0" VerticalAlignment="Top" Width="372">
+                <TextBox x:Name="CustomerName" HorizontalAlignment="Left" Height="22" Margin="6,16,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="166"/>
+                <TextBox x:Name="ToolName" HorizontalAlignment="Left" Height="24" Margin="6,43,0,0" TextWrapping="Wrap" Text="Tool Name" VerticalAlignment="Top" Width="166"/>
+                <TextBox x:Name="PricePrDay" HorizontalAlignment="Left" Height="24" Margin="6,72,0,0" TextWrapping="Wrap" Text="Price per day" VerticalAlignment="Top" Width="166"/>
+                <TextBox x:Name="TotalDays" HorizontalAlignment="Left" Height="22" Margin="97,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57"/>
+                <TextBox x:Name="TotalPrice" HorizontalAlignment="Left" Height="22" Margin="266,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96"/>
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Total days" VerticalAlignment="Top" Margin="10,144,0,0" Width="82" Height="22"/>
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Total Pice" VerticalAlignment="Top" Margin="166,145,0,0" Width="95" Height="21"/>
+                <ComboBox x:Name="ComboStatus" HorizontalAlignment="Left" Height="21" Margin="6,257,0,0" VerticalAlignment="Top" Width="142" SelectionChanged="StatusChanged">
+                    <ComboBoxItem Name="ComboRes">Reserved</ComboBoxItem>
+                    <ComboBoxItem Name="ComboCon">Consigned</ComboBoxItem>
+                    <ComboBoxItem Name="ComboRet">returned</ComboBoxItem>
+
+                </ComboBox>
+                <Button Content="Delete Reservation" HorizontalAlignment="Left" Height="24" Margin="245,254,0,0" VerticalAlignment="Top" Width="117" Click="DeleteButton"/>
+
+            </Grid>
+
+
+        </DockPanel>
+        <TextBox x:Name="SearchField" HorizontalAlignment="Left" Height="21" TextWrapping="Wrap" Text="Enter Email you want to search for" VerticalAlignment="Top" Width="275" Margin="10,10,0,0"/>
+        <Button Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="10,36,0,0" Click="Button_Click" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.234"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+﻿@using DropDownListWeb.Models
+@model Adresse
+
+<h2>Indtast adresse</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(a => a.VejOgHusnr, "Vej og husnr:")
+        <br/>
+        @Html.EditorFor(a => a.VejOgHusnr)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(a => a.Postdistrikt, "Postnr:")
+        <br />
+        @Html.DropDownListFor(a => a.Postnr,
+        new SelectList(Postdistrikt.Set, "Postnr", "Bynavn"))
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Gem" />
+    </div>
+}

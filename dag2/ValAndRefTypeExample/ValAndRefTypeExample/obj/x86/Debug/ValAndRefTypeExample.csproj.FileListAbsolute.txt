@@ -1,0 +1,15 @@
+C:\Users\mmat\Documents\DMU\C#\2011-02-09, C-sharp sproget\ValAndRefTypeExample\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\mmat\Documents\DMU\C#\2011-02-09, C-sharp sproget\ValAndRefTypeExample\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\mmat\Documents\DMU\C#\2011-02-09, C-sharp sproget\ValAndRefTypeExample\bin\Debug\ConsoleApplication3.exe
+C:\Users\mmat\Documents\DMU\C#\2011-02-09, C-sharp sproget\ValAndRefTypeExample\bin\Debug\ConsoleApplication3.pdb
+C:\Users\mmat\Documents\DMU\C#\2011-02-09, C-sharp sproget\ValAndRefTypeExample\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Documents\DMU\C#\2011 forår\2011-02-09 C-sharp sprog konstruktioner\ValAndRefTypeExample\ValAndRefTypeExample\bin\Debug\ConsoleApplication3.exe
+H:\Documents\DMU\C#\2011 forår\2011-02-09 C-sharp sprog konstruktioner\ValAndRefTypeExample\ValAndRefTypeExample\bin\Debug\ConsoleApplication3.pdb
+H:\Documents\DMU\C#\2011 forår\2011-02-09 C-sharp sprog konstruktioner\ValAndRefTypeExample\ValAndRefTypeExample\obj\x86\Debug\ConsoleApplication3.exe
+H:\Documents\DMU\C#\2011 forår\2011-02-09 C-sharp sprog konstruktioner\ValAndRefTypeExample\ValAndRefTypeExample\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\groth\source\repos\4-semster-c\dag2\ValAndRefTypeExample\ValAndRefTypeExample\obj\x86\Debug\ValAndRefTypeExample.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\dag2\ValAndRefTypeExample\ValAndRefTypeExample\obj\x86\Debug\ValAndRefTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\dag2\ValAndRefTypeExample\ValAndRefTypeExample\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\groth\source\repos\4-semster-c\dag2\ValAndRefTypeExample\ValAndRefTypeExample\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\groth\source\repos\4-semster-c\dag2\ValAndRefTypeExample\ValAndRefTypeExample\bin\Debug\ConsoleApplication3.exe
+C:\Users\groth\source\repos\4-semster-c\dag2\ValAndRefTypeExample\ValAndRefTypeExample\bin\Debug\ConsoleApplication3.pdb

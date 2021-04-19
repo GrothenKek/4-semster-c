@@ -1,0 +1,33 @@
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\bin\Debug\SolvedExercises.exe.config
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\bin\Debug\SolvedExercises.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\bin\Debug\SolvedExercises.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises_MarkupCompile.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises_MarkupCompile.lref
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.g.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.Properties.Resources.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\EditDialog.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\EditDialog.baml
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\bin\Debug\SolvedExercises.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\bin\Debug\SolvedExercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\bin\Debug\SolvedExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\EditDialog.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\MainWindow.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\App.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises_MarkupCompile.cache
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises_MarkupCompile.lref
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\EditDialog.baml
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\MainWindow.baml
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.g.resources
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.Properties.Resources.resources
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.csproj.GenerateResource.cache
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 07 WPF DataBinding\SolutionProjects\SolvedExercises\SolvedExercises\obj\Debug\SolvedExercises.pdb

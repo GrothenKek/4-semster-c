@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="zipcodeStoreContainer" CdmEntityContainer="zipcodeContainer">
+    <EntitySetMapping Name="ZipSet">
+      <EntityTypeMapping TypeName="IsTypeOf(zipcode.Zip)">
+        <MappingFragment StoreEntitySet="ZipSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ZipName" ColumnName="ZipName" />
+          <ScalarProperty Name="ZipCode" ColumnName="ZipCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

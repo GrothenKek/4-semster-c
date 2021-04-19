@@ -1,0 +1,11 @@
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFrameworkClassLibrary.dll.config
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFrameworkClassLibrary.dll
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFrameworkClassLibrary.pdb
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\obj\Debug\EntityFrameworkClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\obj\Debug\EntityFrameworkClassLibrary.csproj.CopyComplete
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\obj\Debug\EntityFrameworkClassLibrary.dll
+C:\Users\mmat\Downloads\Dag11\Løsninger\AspNetMvcEntityFrameworkPersonSolution\EntityFrameworkClassLibrary\obj\Debug\EntityFrameworkClassLibrary.pdb

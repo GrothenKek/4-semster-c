@@ -1,0 +1,12 @@
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.exe
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.deps.json
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.runtimeconfig.json
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.runtimeconfig.dev.json
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.dll
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.pdb
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.AssemblyInfoInputs.cache
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.AssemblyInfo.cs
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.dll
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.pdb
+C:\Users\groth\source\repos\4-semster-c\dag2\RandomNum\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.genruntimeconfig.cache

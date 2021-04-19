@@ -1,0 +1,41 @@
+﻿@model ClassLibrary1.ViewModel.LoginModel
+@{
+    ViewBag.Title = "login";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true)
+                <h2 class="logind-title">Login</h2>
+                <div class="form-group">
+                    @Html.LabelFor(c => c.Email)
+                    @Html.TextBoxFor(c => c.Email)
+                    @Html.ValidationMessageFor(c => c.Email, "", new { @class = "error" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(c => c.Password)
+                    @Html.PasswordFor(c => c.Password)
+                    @Html.ValidationMessageFor(c => c.Password, "", new { @class = "error" })
+                </div>
+
+
+                <div class="form-group">
+                    <input type="submit" class="logind-submit" value="Login" />
+                </div>
+
+            }
+        </div>
+        <div>
+            @Html.ActionLink("Create new Account", "Create")
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

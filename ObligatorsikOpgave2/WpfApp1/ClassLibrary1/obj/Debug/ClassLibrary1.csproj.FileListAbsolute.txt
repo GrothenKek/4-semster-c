@@ -1,0 +1,14 @@
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.RentServiceDBContext.resources
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+C:\Users\groth\source\repos\4-semster-c\ObligatorsikOpgave2\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache

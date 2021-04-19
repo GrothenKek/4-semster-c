@@ -1,0 +1,15 @@
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\MainWindow.g.cs
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\App.g.cs
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5_MarkupCompile.cache
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5_MarkupCompile.lref
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\bin\Debug\opg5.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\bin\Debug\opg5.exe
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\bin\Debug\opg5.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\MainWindow.baml
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.g.resources
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.Properties.Resources.resources
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.csproj.GenerateResource.cache
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.exe
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag6\opg5\opg5\obj\Debug\opg5.csprojAssemblyReference.cache

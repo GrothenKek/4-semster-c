@@ -1,0 +1,45 @@
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\SolvedExercises.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\SolvedExercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\SolvedExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.dll
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.SqlServer.dll
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.xml
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.SqlServer.xml
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\EditDialog.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\MainWindow.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\App.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises_Content.g.cs
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises_MarkupCompile.cache
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises_MarkupCompile.lref
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\EditDialog.baml
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\MainWindow.baml
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.g.resources
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.Properties.Resources.resources
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csproj.GenerateResource.cache
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csproj.CopyComplete
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 09 Entity Framework\Exercises\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\SolvedExercises.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\SolvedExercises.exe
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\SolvedExercises.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.dll
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.xml
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\EditDialog.g.cs
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\MainWindow.g.cs
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\App.g.cs
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises_Content.g.cs
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises_MarkupCompile.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises_MarkupCompile.lref
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\EditDialog.baml
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\MainWindow.baml
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.g.resources
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.Properties.Resources.resources
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csproj.GenerateResource.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\WpfEntityFrameworkPersonSolution.csproj.CopyComplete
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.exe
+C:\Users\groth\source\repos\4-semster-c\Dag9\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\WpfEntityFrameworkPersonSolution\obj\Debug\SolvedExercises.pdb

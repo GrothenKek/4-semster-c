@@ -1,0 +1,13 @@
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.AssemblyInfoInputs.cache
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.AssemblyInfo.cs
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\bin\Debug\netcoreapp3.1\Opgave4.exe
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\bin\Debug\netcoreapp3.1\Opgave4.deps.json
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\bin\Debug\netcoreapp3.1\Opgave4.runtimeconfig.json
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\bin\Debug\netcoreapp3.1\Opgave4.runtimeconfig.dev.json
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\bin\Debug\netcoreapp3.1\Opgave4.dll
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\bin\Debug\netcoreapp3.1\Opgave4.pdb
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.dll
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.pdb
+C:\Users\groth\source\repos\4-semster-c\dag3\opg1\Opgave4\Opgave4\obj\Debug\netcoreapp3.1\Opgave4.genruntimeconfig.cache

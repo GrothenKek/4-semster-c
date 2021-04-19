@@ -1,0 +1,29 @@
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\UnitTestConsoleApp.exe.config
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\UnitTestConsoleApp.exe
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\UnitTestConsoleApp.pdb
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.framework.dll
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.framework.pdb
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.framework.xml
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.csprojAssemblyReference.cache
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.csproj.CopyComplete
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.exe
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.pdb
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.engine.dll
+C:\Users\mmat\source\repos\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.engine.api.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.engine.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.engine.api.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\UnitTestConsoleApp.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\UnitTestConsoleApp.exe
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\UnitTestConsoleApp.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.framework.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.framework.xml
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.csproj.CopyComplete
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.exe
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\obj\Debug\UnitTestConsoleApp.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 12-test\UnitTestConsoleApp\UnitTestConsoleApp\bin\Debug\nunit.engine.core.dll

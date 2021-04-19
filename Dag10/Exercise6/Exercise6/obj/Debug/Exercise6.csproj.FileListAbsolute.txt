@@ -1,0 +1,239 @@
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Exercise6.dll.config
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Exercise6.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Exercise6.pdb
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csc.exe
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csc.exe.config
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csc.rsp
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csi.exe
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csi.exe.config
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csi.rsp
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.AppContext.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Collections.Immutable.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Console.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.Compression.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.FileSystem.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.Pipes.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Reflection.Metadata.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.AccessControl.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Claims.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.ValueTuple.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.XPath.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\vbc.exe
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\vbc.exe.config
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\vbc.rsp
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\VBCSCompiler.exe
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\VBCSCompiler.exe.config
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Antlr3.Runtime.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.Web.Infrastructure.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Newtonsoft.Json.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Diagnostics.DiagnosticSource.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Helpers.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Mvc.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Optimization.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Razor.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Deployment.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Razor.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\WebGrease.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Helpers.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Mvc.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Optimization.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Razor.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Deployment.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Razor.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Newtonsoft.Json.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Antlr3.Runtime.pdb
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Diagnostics.DiagnosticSource.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.csproj.CopyComplete
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.dll
+C:\user\CSharp\Lektion_12_ASP_NET_MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Exercise6.dll.config
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Exercise6.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Exercise6.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csc.exe
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csc.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csc.rsp
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csi.exe
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csi.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\csi.rsp
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.AppContext.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Collections.Immutable.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Console.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.Compression.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.FileSystem.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.IO.Pipes.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Reflection.Metadata.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.AccessControl.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Claims.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.ValueTuple.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.XPath.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\vbc.exe
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\vbc.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\vbc.rsp
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\VBCSCompiler.exe
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\roslyn\VBCSCompiler.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Antlr3.Runtime.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.Web.Infrastructure.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Newtonsoft.Json.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Diagnostics.DiagnosticSource.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Helpers.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Mvc.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Optimization.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Razor.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Deployment.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Razor.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\WebGrease.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Helpers.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Mvc.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Optimization.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.Razor.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Deployment.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Web.WebPages.Razor.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Newtonsoft.Json.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Antlr3.Runtime.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\System.Diagnostics.DiagnosticSource.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.csproj.CopyComplete
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.dll
+H:\Documents\DMU\C#\2020 forår\Dag 10 ASP NET MVC\SolutionProjects\Exercise6\Exercise6\obj\Debug\Exercise6.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Exercise6.dll.config
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Exercise6.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Exercise6.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\csc.exe
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\csc.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\csc.rsp
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\csi.exe
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\csi.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\csi.rsp
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.AppContext.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Console.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.IO.Compression.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.Claims.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.ValueTuple.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\vbc.exe
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\vbc.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\vbc.rsp
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\VBCSCompiler.exe
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Antlr3.Runtime.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Newtonsoft.Json.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Helpers.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Mvc.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Optimization.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Razor.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.WebPages.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.WebPages.Razor.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\WebGrease.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Helpers.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Mvc.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Optimization.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.Razor.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.WebPages.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Web.WebPages.Razor.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Newtonsoft.Json.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Antlr3.Runtime.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\obj\Debug\Exercise6.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\obj\Debug\Exercise6.csproj.CopyComplete
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\obj\Debug\Exercise6.dll
+C:\Users\groth\source\repos\4-semster-c\Dag10\Exercise6\Exercise6\obj\Debug\Exercise6.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øvelse4 delegate_sort", "Øvelse4 delegate_sort\Øvelse4 delegate_sort.csproj", "{0E360D6D-FFEF-45B6-9F33-0478E3FF3C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E360D6D-FFEF-45B6-9F33-0478E3FF3C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E360D6D-FFEF-45B6-9F33-0478E3FF3C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E360D6D-FFEF-45B6-9F33-0478E3FF3C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E360D6D-FFEF-45B6-9F33-0478E3FF3C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F202B4F-3CF8-4C90-A41A-8D60F7684729}
+	EndGlobalSection
+EndGlobal

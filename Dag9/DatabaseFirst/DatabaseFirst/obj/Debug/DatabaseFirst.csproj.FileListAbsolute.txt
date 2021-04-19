@@ -1,0 +1,12 @@
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\groth\source\repos\4-semster-c\Dag9\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CopyComplete

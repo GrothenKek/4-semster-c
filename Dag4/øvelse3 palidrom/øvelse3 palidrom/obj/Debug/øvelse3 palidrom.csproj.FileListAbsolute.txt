@@ -1,0 +1,6 @@
+C:\Users\groth\source\repos\4-semster-c\Dag4\øvelse3 palidrom\øvelse3 palidrom\bin\Debug\øvelse3 palidrom.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag4\øvelse3 palidrom\øvelse3 palidrom\bin\Debug\øvelse3 palidrom.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\øvelse3 palidrom\øvelse3 palidrom\bin\Debug\øvelse3 palidrom.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag4\øvelse3 palidrom\øvelse3 palidrom\obj\Debug\øvelse3 palidrom.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag4\øvelse3 palidrom\øvelse3 palidrom\obj\Debug\øvelse3 palidrom.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\øvelse3 palidrom\øvelse3 palidrom\obj\Debug\øvelse3 palidrom.pdb

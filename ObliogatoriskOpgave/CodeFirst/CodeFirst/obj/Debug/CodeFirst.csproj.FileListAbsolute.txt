@@ -1,0 +1,14 @@
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.RentServiceContext.resources
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\groth\source\repos\4-semster-c\ObliogatoriskOpgave\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache

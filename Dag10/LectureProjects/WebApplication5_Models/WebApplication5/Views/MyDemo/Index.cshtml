@@ -1,0 +1,51 @@
+﻿<!-- Strongly typed data for view! -->
+
+@model WebApplication5.Models.MyData
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<hr />
+<div>
+
+    Model.Id = @Model.Id<br />
+    Model.Name = @Model.Name<br/>
+    Model.Time = @Model.Time<br/>
+    Model.Info = @Model.Info<br/>
+    Model.Value = @Model.Value<br/>
+
+    <h4>MyData</h4>
+    <table style="width:50%">
+        <tr>
+            <!-- https://stackoverflow.com/questions/9465376/when-should-i-use-html-displayfor-in-mvc -->
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <td> : </td>
+            <td>@Html.DisplayFor(model => model.Id)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <td> : </td>
+            <td>@Html.DisplayFor(model => model.Name)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Time)</th>
+            <td> : </td>
+            <td>@Html.DisplayFor(model => model.Time)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Info)</th>
+            <td> : </td>
+            <td>@Html.DisplayFor(model => model.Info)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Value)</th>
+            <td> : </td>
+            <td>@Html.DisplayFor(model => model.Value)</td>
+        </tr>
+
+    </table>
+</div>

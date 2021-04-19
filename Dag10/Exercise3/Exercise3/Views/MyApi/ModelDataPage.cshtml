@@ -1,0 +1,31 @@
+﻿@model Exercise3.Models.Person
+
+
+@{
+    ViewBag.Title = "ModelDataPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ModelDataPage</h2>
+
+id = @ViewBag.Id<br />
+name = @ViewBag.Name<br />
+age = @ViewBag.Age<br />
+
+<hr />
+Model data<br />
+
+<!-- Id, Name, Age, Weight, Score, Accepted -->
+@Html.DisplayNameFor(model => model.Id)       = @Html.DisplayFor(model => model.Id)<br/>
+@Html.DisplayNameFor(model => model.Name)     = @Html.DisplayFor(model => model.Name)<br/>
+@Html.DisplayNameFor(model => model.Age)      = @Html.DisplayFor(model => model.Age)<br/>
+@Html.DisplayNameFor(model => model.Weight)   = @Html.DisplayFor(model => model.Weight)<br/>
+@Html.DisplayNameFor(model => model.Score)    = @Html.DisplayFor(model => model.Score)<br/>
+@Html.DisplayNameFor(model => model.Accepted) = @(Model.Accepted ? "Yes" : "No")<br/>
+
+
+<hr />
+<p>
+    @Html.ActionLink("Home", "Index", "Home")<br />
+    @Html.ActionLink("MyApi", "Index", "MyApi")
+</p>

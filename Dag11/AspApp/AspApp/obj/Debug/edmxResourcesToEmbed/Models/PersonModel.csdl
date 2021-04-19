@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PersonsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PersonSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Weight" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" />
+    <Property Name="Accepted" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="PersonsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PersonSet" EntityType="Self.PersonSet" />
+  </EntityContainer>
+</Schema>

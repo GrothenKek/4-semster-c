@@ -1,0 +1,6 @@
+C:\Users\groth\source\repos\4-semster-c\Dag4\opgave2\opgave2\bin\Debug\opgave2.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag4\opgave2\opgave2\bin\Debug\opgave2.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\opgave2\opgave2\bin\Debug\opgave2.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag4\opgave2\opgave2\obj\Debug\opgave2.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag4\opgave2\opgave2\obj\Debug\opgave2.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\opgave2\opgave2\obj\Debug\opgave2.pdb

@@ -1,0 +1,7 @@
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\bin\Debug\Øvelse4 delegate_sort.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\bin\Debug\Øvelse4 delegate_sort.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\bin\Debug\Øvelse4 delegate_sort.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\obj\Debug\Øvelse4 delegate_sort.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\obj\Debug\Øvelse4 delegate_sort.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\obj\Debug\Øvelse4 delegate_sort.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse4 delegate_sort\Øvelse4 delegate_sort\obj\Debug\Øvelse4 delegate_sort.pdb

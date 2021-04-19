@@ -1,0 +1,7 @@
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\bin\Debug\Øvelse5_SpilleKort.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\bin\Debug\Øvelse5_SpilleKort.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\bin\Debug\Øvelse5_SpilleKort.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\obj\Debug\Øvelse5_SpilleKort.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\obj\Debug\Øvelse5_SpilleKort.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\obj\Debug\Øvelse5_SpilleKort.exe
+C:\Users\groth\source\repos\4-semster-c\Dag4\Øvelse5_SpilleKort\Øvelse5_SpilleKort\obj\Debug\Øvelse5_SpilleKort.pdb

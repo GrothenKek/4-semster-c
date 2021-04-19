@@ -1,0 +1,32 @@
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\bin\Debug\AdoDemo1.exe.config
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\bin\Debug\AdoDemo1.exe
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\bin\Debug\AdoDemo1.pdb
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.exe
+C:\user\CSharp\Lektion_09_ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\AdoDemo1\AdoDemo1\bin\Debug\AdoDemo1.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\AdoDemo1\AdoDemo1\bin\Debug\AdoDemo1.exe
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\AdoDemo1\AdoDemo1\bin\Debug\AdoDemo1.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.exe
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\AdoDemo1\AdoDemo1\obj\Debug\AdoDemo1.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.exe
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.exe
+H:\Documents\DMU\C#\2020 forår\Dag 08 ADO\LectureProjects\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.pdb
+C:\Users\mmat\Downloads\Dag8\Eksempler\ADO_console_app_demo\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.exe.config
+C:\Users\mmat\Downloads\Dag8\Eksempler\ADO_console_app_demo\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.exe
+C:\Users\mmat\Downloads\Dag8\Eksempler\ADO_console_app_demo\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.pdb
+C:\Users\mmat\Downloads\Dag8\Eksempler\ADO_console_app_demo\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.csproj.CoreCompileInputs.cache
+C:\Users\mmat\Downloads\Dag8\Eksempler\ADO_console_app_demo\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.exe
+C:\Users\mmat\Downloads\Dag8\Eksempler\ADO_console_app_demo\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.exe
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\bin\Debug\AdoDemo1.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.exe
+C:\Users\groth\source\repos\4-semster-c\Dag8\ADO_console_app_demo\AdoDemo1\obj\Debug\AdoDemo1.pdb

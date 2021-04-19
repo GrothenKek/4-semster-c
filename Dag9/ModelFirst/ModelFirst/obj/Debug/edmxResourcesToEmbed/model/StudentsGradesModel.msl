@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentsGradesModelStoreContainer" CdmEntityContainer="StudentsGradesModelContainer">
+    <EntitySetMapping Name="StudentsSet">
+      <EntityTypeMapping TypeName="IsTypeOf(StudentsGradesModel.Students)">
+        <MappingFragment StoreEntitySet="StudentsSet">
+          <ScalarProperty Name="StudentsId" ColumnName="StudentsId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GradesSet">
+      <EntityTypeMapping TypeName="IsTypeOf(StudentsGradesModel.Grades)">
+        <MappingFragment StoreEntitySet="GradesSet">
+          <ScalarProperty Name="GradesId" ColumnName="GradesId" />
+          <ScalarProperty Name="Course" ColumnName="Course" />
+          <ScalarProperty Name="Grade" ColumnName="Grade" />
+          <ScalarProperty Name="StudentsId" ColumnName="StudentsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="StudentsGrades" TypeName="StudentsGradesModel.StudentsGrades" StoreEntitySet="GradesSet">
+      <EndProperty Name="Students">
+        <ScalarProperty Name="StudentsId" ColumnName="Students_StudentsId" />
+      </EndProperty>
+      <EndProperty Name="Grades">
+        <ScalarProperty Name="GradesId" ColumnName="GradesId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

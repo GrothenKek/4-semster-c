@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KunderIBioModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Biografbillet">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="filmnavn" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="dato" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="tid" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="sæderække" Type="Int32" Nullable="false" />
+    <Property Name="stolenummer" Type="Int32" Nullable="false" />
+    <Property Name="kundeNr" Type="String" MaxLength="12" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kunde" Relationship="Self.FK__Biografbi__kunde__25869641" FromRole="Biografbillet" ToRole="Kunde" />
+  </EntityType>
+  <EntityType Name="Kunde">
+    <Key>
+      <PropertyRef Name="tlfNr" />
+    </Key>
+    <Property Name="navn" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tlfNr" Type="String" MaxLength="12" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Biografbillet" Relationship="Self.FK__Biografbi__kunde__25869641" FromRole="Kunde" ToRole="Biografbillet" />
+  </EntityType>
+  <Association Name="FK__Biografbi__kunde__25869641">
+    <End Role="Kunde" Type="Self.Kunde" Multiplicity="1" />
+    <End Role="Biografbillet" Type="Self.Biografbillet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kunde">
+        <PropertyRef Name="tlfNr" />
+      </Principal>
+      <Dependent Role="Biografbillet">
+        <PropertyRef Name="kundeNr" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KunderIBioEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Biografbillet" EntityType="Self.Biografbillet" />
+    <EntitySet Name="Kunde" EntityType="Self.Kunde" />
+    <AssociationSet Name="FK__Biografbi__kunde__25869641" Association="Self.FK__Biografbi__kunde__25869641">
+      <End Role="Kunde" EntitySet="Kunde" />
+      <End Role="Biografbillet" EntitySet="Biografbillet" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

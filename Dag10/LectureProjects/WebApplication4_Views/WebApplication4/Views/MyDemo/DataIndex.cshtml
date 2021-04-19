@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "DataIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DataIndex</h2>
+
+<ul>    
+    @for (int i = 0; i < ViewBag.Data.Count; i++) {
+        <li>@ViewBag.Data[i]</li>
+    }
+</ul>
+
+

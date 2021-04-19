@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="personModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="personModelStoreContainer">
+    <EntitySet Name="PersonSet" EntityType="personModel.Store.PersonSet" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="PersonSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Age" Type="int" Nullable="true" />
+    <Property Name="Weight" Type="int" Nullable="false" />
+    <Property Name="Score" Type="int" Nullable="true" />
+    <Property Name="Accepted" Type="bit" Nullable="false" DefaultValue="false" />
+  </EntityType>
+</Schema>

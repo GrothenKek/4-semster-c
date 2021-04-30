@@ -1,0 +1,12 @@
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfClientTest\bin\Debug\WcfClientTest.exe.config
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfClientTest\bin\Debug\WcfClientTest.exe
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfClientTest\bin\Debug\WcfClientTest.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfClientTest\obj\Debug\WcfClientTest.exe
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfClientTest\obj\Debug\WcfClientTest.pdb
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\bin\Debug\WcfClientTest.exe.config
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\bin\Debug\WcfClientTest.exe
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\bin\Debug\WcfClientTest.pdb
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\obj\Debug\WcfClientTest.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\obj\Debug\WcfClientTest.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\obj\Debug\WcfClientTest.exe
+C:\Users\groth\source\repos\4-semster-c\dag 18 wcf\WcfServiceAndClientTest\WcfClientTest\obj\Debug\WcfClientTest.pdb

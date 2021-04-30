@@ -1,0 +1,13 @@
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.AssemblyInfoInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.AssemblyInfo.cs
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\bin\Debug\netcoreapp3.1\Øvelse1.exe
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\bin\Debug\netcoreapp3.1\Øvelse1.deps.json
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\bin\Debug\netcoreapp3.1\Øvelse1.runtimeconfig.json
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\bin\Debug\netcoreapp3.1\Øvelse1.runtimeconfig.dev.json
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\bin\Debug\netcoreapp3.1\Øvelse1.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\bin\Debug\netcoreapp3.1\Øvelse1.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.dll
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse1\Øvelse1\obj\Debug\netcoreapp3.1\Øvelse1.genruntimeconfig.cache

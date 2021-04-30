@@ -1,0 +1,6 @@
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\bin\Release\WcfServiceAndClientTest.dll.config
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\bin\Release\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\bin\Release\WcfServiceAndClientTest.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\obj\Release\WcfServiceTest.csprojAssemblyReference.cache
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\obj\Release\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\obj\Release\WcfServiceAndClientTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\bin\Debug\WcfServiceProgram.exe.config
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\bin\Debug\WcfServiceProgram.exe
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\bin\Debug\WcfServiceProgram.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\bin\Debug\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\bin\Debug\WcfServiceAndClientTest.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\bin\Debug\WcfServiceAndClientTest.dll.config
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\obj\Debug\WcfServiceProgram.csprojAssemblyReference.cache
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\obj\Debug\WcfServiceProgram.csproj.CopyComplete
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\obj\Debug\WcfServiceProgram.exe
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceProgram\obj\Debug\WcfServiceProgram.pdb

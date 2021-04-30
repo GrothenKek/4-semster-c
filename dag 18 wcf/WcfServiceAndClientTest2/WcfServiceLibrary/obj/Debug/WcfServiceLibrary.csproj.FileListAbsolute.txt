@@ -1,0 +1,10 @@
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\bin\Debug\WcfServiceAndClientTest.dll.config
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\bin\Debug\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\bin\Debug\WcfServiceAndClientTest.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\obj\Debug\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceTest\obj\Debug\WcfServiceAndClientTest.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceLibrary\bin\Debug\WcfServiceAndClientTest.dll.config
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceLibrary\bin\Debug\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceLibrary\bin\Debug\WcfServiceAndClientTest.pdb
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceLibrary\obj\Debug\WcfServiceAndClientTest.dll
+C:\Users\mmat\source\repos\WcfServiceAndClientTest\WcfServiceLibrary\obj\Debug\WcfServiceAndClientTest.pdb

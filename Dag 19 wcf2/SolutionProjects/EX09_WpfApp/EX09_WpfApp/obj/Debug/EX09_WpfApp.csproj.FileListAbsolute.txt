@@ -1,0 +1,15 @@
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\bin\Debug\EX09_WpfApp.exe.config
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\bin\Debug\EX09_WpfApp.exe
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\bin\Debug\EX09_WpfApp.pdb
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp_MarkupCompile.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp_MarkupCompile.lref
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.g.resources
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.Properties.Resources.resources
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.exe
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX09_WpfApp\EX09_WpfApp\obj\Debug\EX09_WpfApp.pdb

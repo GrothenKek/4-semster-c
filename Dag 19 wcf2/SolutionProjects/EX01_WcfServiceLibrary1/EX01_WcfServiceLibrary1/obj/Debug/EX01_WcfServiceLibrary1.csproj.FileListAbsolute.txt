@@ -1,0 +1,6 @@
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX01_WcfServiceLibrary1\EX01_WcfServiceLibrary1\bin\Debug\EX01_WcfServiceLibrary1.dll.config
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX01_WcfServiceLibrary1\EX01_WcfServiceLibrary1\bin\Debug\EX01_WcfServiceLibrary1.dll
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX01_WcfServiceLibrary1\EX01_WcfServiceLibrary1\bin\Debug\EX01_WcfServiceLibrary1.pdb
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX01_WcfServiceLibrary1\EX01_WcfServiceLibrary1\obj\Debug\EX01_WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX01_WcfServiceLibrary1\EX01_WcfServiceLibrary1\obj\Debug\EX01_WcfServiceLibrary1.dll
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX01_WcfServiceLibrary1\EX01_WcfServiceLibrary1\obj\Debug\EX01_WcfServiceLibrary1.pdb

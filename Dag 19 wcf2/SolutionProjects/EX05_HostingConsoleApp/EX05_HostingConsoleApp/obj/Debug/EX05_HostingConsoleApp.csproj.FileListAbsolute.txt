@@ -1,0 +1,7 @@
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\bin\Debug\EX05_HostingConsoleApp.exe.config
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\bin\Debug\EX05_HostingConsoleApp.exe
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\bin\Debug\EX05_HostingConsoleApp.pdb
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\obj\Debug\EX05_HostingConsoleApp.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\obj\Debug\EX05_HostingConsoleApp.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\obj\Debug\EX05_HostingConsoleApp.exe
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX05_HostingConsoleApp\EX05_HostingConsoleApp\obj\Debug\EX05_HostingConsoleApp.pdb

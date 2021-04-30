@@ -1,0 +1,7 @@
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\bin\Debug\EX08_ClientConsoleApp.exe.config
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\bin\Debug\EX08_ClientConsoleApp.exe
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\bin\Debug\EX08_ClientConsoleApp.pdb
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\obj\Debug\EX08_ClientConsoleApp.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\obj\Debug\EX08_ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\obj\Debug\EX08_ClientConsoleApp.exe
+C:\user\CSharp\Lektion_17_WCF\SolutionProjects\EX08_ClientConsoleApp\EX08_ClientConsoleApp\obj\Debug\EX08_ClientConsoleApp.pdb

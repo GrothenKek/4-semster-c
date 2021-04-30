@@ -1,0 +1,13 @@
+C:\Users\mmat\source\repos\Buffer_Start\Buffer_Start\bin\Debug\Buffer_Start.exe.config
+C:\Users\mmat\source\repos\Buffer_Start\Buffer_Start\bin\Debug\Buffer_Start.exe
+C:\Users\mmat\source\repos\Buffer_Start\Buffer_Start\bin\Debug\Buffer_Start.pdb
+C:\Users\mmat\source\repos\Buffer_Start\Buffer_Start\obj\Debug\Buffer_Start.csprojAssemblyReference.cache
+C:\Users\mmat\source\repos\Buffer_Start\Buffer_Start\obj\Debug\Buffer_Start.exe
+C:\Users\mmat\source\repos\Buffer_Start\Buffer_Start\obj\Debug\Buffer_Start.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\bin\Debug\Buffer_Start.exe.config
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\bin\Debug\Buffer_Start.exe
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\bin\Debug\Buffer_Start.pdb
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\obj\Debug\Buffer_Start.csprojAssemblyReference.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\obj\Debug\Buffer_Start.csproj.CoreCompileInputs.cache
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\obj\Debug\Buffer_Start.exe
+C:\Users\groth\source\repos\4-semster-c\Dag 20 Tråde\Øvelse2\Buffer_Start\obj\Debug\Buffer_Start.pdb

@@ -1,0 +1,7 @@
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\bin\Debug\TestingBirthdate.exe.config
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\bin\Debug\TestingBirthdate.exe
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\bin\Debug\TestingBirthdate.pdb
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\obj\Debug\TestingBirthdate.csprojAssemblyReference.cache
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\obj\Debug\TestingBirthdate.csproj.CoreCompileInputs.cache
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\obj\Debug\TestingBirthdate.exe
+C:\Users\mmat\source\repos\TestingBirthdate\TestingBirthdate\obj\Debug\TestingBirthdate.pdb
